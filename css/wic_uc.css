@@ -1,0 +1,32 @@
+@charset "UTF-8";
+/* CSS Document */
+
+h1 {
+	font-family:Helvetica, Arial, sans-serif;
+	font-size:7em;
+	padding:0px;
+	line-height:120px;
+}
+
+h2 {
+	font-family:Helvetica, Arial, sans-serif;
+	font-size:4em;
+	color:#999
+}
+
+h3 {
+	font-family:Helvetica, Arial, sans-serif;
+	font-size:2em;
+	letter-spacing:1px;
+}
+
+p {
+	font-family:Helvetica, Arial, sans-serif;
+	font-size:2em;
+}
+
+.container {
+	margin: 0px auto;
+	width:980px;
+	height:600px;
+}
